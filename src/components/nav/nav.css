@@ -1,0 +1,14 @@
+.navbar-start {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+};
+
+.navbar {
+    background-color: transparent;
+};
+
+#navItem {
+    background-color: transparent;
+    color: gray;
+}
