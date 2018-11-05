@@ -5,7 +5,7 @@ const About = () => (
     <div>
         <div className="container is-fluid">
             <div className="notification">
-                <p id="about">I'm Leah -- a Full Stack Web Developer specializing in problem-solving and designing functional solutions.
+                <p id="about">I'm <strong>Leah</strong> -- a Full Stack Web Developer specializing in problem-solving and designing functional solutions.
                 I've six years of experience in client services and account management with a demonstrated history in team-based environments. 
                 I'm flexible, versatile and able to maintain a sense of humor under pressure.
                 <br></br><br></br>
